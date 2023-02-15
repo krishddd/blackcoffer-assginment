@@ -1,8 +1,3 @@
-# Commented out IPython magic to ensure Python compatibility.
-from google.colab import drive
-drive.mount('/gdrive')
-# %cd '/gdrive/MyDrive/project/Data_Extraction_and_NLP/TestAssignment'
-
 #import necessary pacakages
 import requests
 from bs4 import BeautifulSoup
